@@ -52,10 +52,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aymen5285356&theme=tokyonight" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aymen-ELYAAKOUBI&theme=tokyonight" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aymen5285356&theme=tokyonight&utcOffset=0" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aymen-ELYAAKOUBI&theme=tokyonight&utcOffset=0" />
       </td>
     </tr>
   </table>
@@ -85,14 +85,14 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/Aymen5285356/Aymen5285356/output/github-contribution-grid-snake-dark.svg">
+            srcset="https://raw.githubusercontent.com/Aymen-ELYAAKOUBI/Aymen-ELYAAKOUBI/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/Aymen5285356/Aymen5285356/output/github-contribution-grid-snake.svg">
+            srcset="https://raw.githubusercontent.com/Aymen-ELYAAKOUBI/Aymen-ELYAAKOUBI/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" 
-         src="https://raw.githubusercontent.com/Aymen5285356/Aymen5285356/output/github-contribution-grid-snake.svg">
+         src="https://raw.githubusercontent.com/Aymen-ELYAAKOUBI/Aymen-ELYAAKOUBI/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Aymen5285356&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aymen-ELYAAKOUBI&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
